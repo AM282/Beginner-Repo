@@ -1,7 +1,7 @@
 # Add your names here and start your open source journey.
 
-Format 
-## [Name](Github Link)
+## [Anju Maurya] (https://github.com/AM282/Beginner-Repo)
+
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
